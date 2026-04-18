@@ -51,7 +51,7 @@ Claude: [Applies 1-2% risk rule, outputs position size]
 
 ## Requirements
 
-- **Finskills API Key**: [Get one free](https://finskills.net/register) — Pro plan for historical data
+- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — Pro plan for historical data
 - **Claude** with skill support
 
 ## License
