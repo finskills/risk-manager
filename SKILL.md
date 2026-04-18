@@ -1,14 +1,15 @@
 ---
 name: Risk Manager
-version: 1.0.0
+version: 1.0.2
 description: "Compute portfolio risk metrics including VaR, Sharpe ratio, and Kelly criterion using historical and real-time data from the Finskills API."
 author: finskills
-homepage: https://github.com/finskills/risk-manager
-credentials:
-  - name: FINSKILLS_API_KEY
-    description: "Finskills API key — register for free at https://finskills.net (Pro plan for historical data; free for macro and breadth endpoints)"
-    required: true
-    link: https://finskills.net
+metadata:
+  openclaw:
+    requires:
+      env:
+        - FINSKILLS_API_KEY
+    primaryEnv: FINSKILLS_API_KEY
+  homepage: https://github.com/finskills/risk-manager
 ---
 
 # Risk Manager
