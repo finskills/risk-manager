@@ -19,7 +19,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill risk-manager
+npx skills add https://github.com/finskills/risk-manager --skill risk-manager
 ```
 
 ## Quick Start
@@ -51,7 +51,7 @@ Claude: [Applies 1-2% risk rule, outputs position size]
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — Pro plan for historical data
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — Pro plan for historical data
 - **Claude** with skill support
 
 ## License
