@@ -1,5 +1,5 @@
 ---
-name: Risk Manager
+name: risk-manager
 version: 1.0.2
 description: "Compute portfolio risk metrics including VaR, Sharpe ratio, and Kelly criterion using historical and real-time data from the Finskills API."
 author: finskills
